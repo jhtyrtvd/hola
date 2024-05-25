@@ -1,2 +1,1 @@
-# hola
-holiiii
+Rita es una estudiante que tiene como tarea barrer su casa todos los días, para ello usa una escoba de cerdas y un recogedor de plástico. Este último, cada vez que lo utiliza se sale el pedestal. Además, tiene que agacharse constantemente, debido a que el recogedor es muy pequeño para ella. Asimismo, la base se ensucia con frecuencia y tiene que estar lavándolo y tampoco tiene un espacio donde guardarlo, ya que su casa es muy pequeña.
